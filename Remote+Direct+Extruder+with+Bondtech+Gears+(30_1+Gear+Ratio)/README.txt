@@ -1,0 +1,1 @@
+Remote Direct Extruder with Bondtech Gears (30:1 Gear Ratio) by fredator on Thingiverse: https://www.thingiverse.com/thing:4009262

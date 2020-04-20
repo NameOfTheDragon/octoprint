@@ -1,0 +1,1 @@
+Canon 7D Camera mount for OpenAstroTracker by jeffcapeshop on Thingiverse: https://www.thingiverse.com/thing:4224429

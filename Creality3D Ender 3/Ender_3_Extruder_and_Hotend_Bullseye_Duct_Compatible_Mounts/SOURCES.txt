@@ -1,0 +1,5 @@
+Sources for Ender 3 Extruder and Hotend Bullseye Duct Compatible Mounts
+
+Ender 3 Cable Chain Extruder Mount (http://www.thingiverse.com/thing:3244681)
+Ender 3 Hot End Chain Links modified(original screw, more strict) (http://www.thingiverse.com/thing:3253558)
+Ender 3 Cable Chain  (http://www.thingiverse.com/thing:2920060)
